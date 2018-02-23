@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\bin\Debug\CA_11_MaxArea.exe.config
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\bin\Debug\CA_11_MaxArea.exe
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\bin\Debug\CA_11_MaxArea.pdb
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\obj\Debug\CA_11_MaxArea.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\obj\Debug\CA_11_MaxArea.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\obj\Debug\CA_11_MaxArea.exe
+C:\Users\Chuan\Project\CA_11_MaxArea\CA_11_MaxArea\obj\Debug\CA_11_MaxArea.pdb
